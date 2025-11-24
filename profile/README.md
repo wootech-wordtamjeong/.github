@@ -1,5 +1,3 @@
-### WORDTAMJEONG - 한국어 의미 유사도 기반 단어 추측 게임
-
 <div align="center">
   <h1>WORDTAMJEONG - 한국어 의미 유사도 기반 단어 추측 게임</h1>
   <p>🧠 AWS Bedrock 기반 한국어 단어 추측 게임 🧠</p>
